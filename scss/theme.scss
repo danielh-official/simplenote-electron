@@ -194,27 +194,6 @@
     border-color: $studio-gray-80;
   }
 
-  .navigation-bar-item {
-    button {
-      color: $studio-white;
-    }
-    svg {
-      fill: $studio-white;
-    }
-  }
-
-  .navigation-bar-item.is-selected {
-    button {
-      color: $studio-simplenote-blue-30;
-    }
-    svg[class^='icon-'] {
-      fill: $studio-simplenote-blue-30;
-    }
-  }
-  .tag-list .tag-list-input.is-selected {
-    color: $studio-simplenote-blue-30;
-  }
-
   .tag-field input {
     background: transparent;
 
